@@ -1,0 +1,32 @@
+Project Overview 
+Project CUW supports a Submission Automation System, built on Cora SeQuence. The aim of the project is 
+to automate parts of submission process across Aspen Insurance and Reinsurance. 
+It works on the following main objectives: 
+ Provide Aspen a greater visibility into the submission process. 
+ Eliminate double keying effort and duplicate data entry. 
+ Provide a single view of submissions across core policy systems. 
+ Provide improved MI reporting. 
+To facilitate the smooth functioning of the Submission Automation System CUW integrates with multiple 
+Aspen in-house systems and databases. For example, the system is integrated with Subscribe, an Aspen policy 
+admin system, to enable smooth flow of data between the two systems. 
+With Sequence business process engine, CUW keeps track of almost any part of the submission process, let 
+alone the data underlying that process. Along with a robust business process engine, CUW supports a simple 
+UI for effortless end user experience. 
+Core Project CUW provides Underwriting services a platform to have a single view of underwriting 
+submissions sent by Underwriters, Brokers or other relevant stakeholders. It is a launch pad for further digital 
+innovation including the potential to automate intake, add advanced analytics, and an artificial 
+intelligence/machine learning platform. 
+CUW efficiently manages the Reinsurance underwriting inventory daily and gives a clear view of the entire 
+Submission process, each stage through which a submission pass. It allows you to keep track of Submissions, 
+with details like the current stage of the submission, blocking issues on submissions and completion date. 
+For Reinsurance 
+Aspen Reinsurance allows an insurer to transfer portions of the risk portfolios to other insurers under an 
+agreement. In case of Reinsurance, the insurance claim amount is born by many insurers and is not a burden 
+on one. 
+CUW supports the following two Reinsurance contracts: 
+ Treaty reinsurance: a contract between the insurance company and the reinsurer, agreeing to share 
+the risks of a predetermined class of policies over a period. In the system, Treaty submissions are 
+processed through Layers underneath a Programme. In Subscribe, a Programme Reference Number 
+is generated followed by a Layer Reference Number for each layer. 
+ Facultative reinsurance: a contract covering the individual underlying policies, written on a policyspecific basis. In the system, Facultative submissions cover a specific risk of the insurer and generate 
+a corresponding Policy reference number in Subscribe. 
